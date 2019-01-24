@@ -1,0 +1,2 @@
+RunId,ProductArea,Product,Component,BusinessWorkflow,PageObject,Description,LogType,ExecutionDate,ExecutionTime,Remarks,AdditionalDetails,FailureId,ModuleName,ApplicationName,FailureType,ReasonForFailure,AnalysisDetails,ManualTestCaseId,UseCaseType,UseCaseDevice,ApplicationType,CustomReportType,PageLoadTimeout
+508041,FedEX,FedEX,registration_fedex,registration_fedex,com.fedex.PageObject.HomePage.launch_url,Successfuly launched the URL 'https://www.fedex.com/apps/printonline/'  ; launching the URL,PASS,2019/01/24,11:34:35,,,,,CHROME,,,,,Desktop,WINDOWS 7,web,,

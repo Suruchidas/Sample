@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RegressionTest executeParallel="true" parallel="tests" suiteCategory="FedExPrintonline_critical" thread-count="2">
+    <ModeOfExecution value="all"/>
+    <Module enabled="Yes" name="FedEx" preserveOrder="true">
+        <TestCase applicationName="CHROME" applicationType="web" component="singlesheet_multifeature" enabled="Yes" manualTestCaseId="" methodName="singlesheet_multifeature" name="singlesheet_multifeature" priority="High" product="FedEX" productArea="FedEX" useCaseDevice="WINDOWS 7" useCaseType="Desktop"/>
+        <TestCase applicationName="CHROME" applicationType="web" component="Singlesheet_multiplefeature_checkout" enabled="Yes" manualTestCaseId="" methodName="Singlesheet_multiplefeature_checkout" name="Singlesheet_multiplefeature_checkout" priority="High" product="FedEX" productArea="FedEX" useCaseDevice="WINDOWS 7" useCaseType="Desktop"/>
+        <TestCase applicationName="FIREFOX" applicationType="web" component="Singlesheet_multiplefeature_checkout" enabled="Yes" manualTestCaseId="" methodName="Singlesheet_multiplefeature_checkout" name="Singlesheet_multiplefeature_checkout" priority="High" product="FedEX" productArea="FedEX" useCaseDevice="WINDOWS 7" useCaseType="Desktop"/>
+        <TestCase applicationName="FIREFOX" applicationType="web" component="singlesheet_multifeature" enabled="Yes" manualTestCaseId="" methodName="singlesheet_multifeature" name="singlesheet_multifeature" priority="High" product="FedEX" productArea="FedEX" useCaseDevice="WINDOWS 7" useCaseType="Desktop"/>
+    </Module>
+</RegressionTest>

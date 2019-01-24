@@ -1,0 +1,2 @@
+RunId,ProductArea,Product,Component,BusinessWorkflow,PageObject,Description,LogType,ExecutionDate,ExecutionTime,Remarks,AdditionalDetails,FailureId,ModuleName,ApplicationName,FailureType,ReasonForFailure,AnalysisDetails,ManualTestCaseId,UseCaseType,UseCaseDevice,ApplicationType,CustomReportType,PageLoadTimeout
+160060,FedEX,FedEX,Comparison_Image,Comparison_Image,com.fedex.PageObject.Registration.fedEx_Registration,waiting for page load,INFO,2018/12/03,11:30:42,,,,,CHROME,,,,,Desktop,WINDOWS 7,web,,

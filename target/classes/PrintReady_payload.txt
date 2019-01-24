@@ -1,0 +1,1 @@
+{"input":{"conversionOptions":{"lockContentOrientation":false,"minDPI":"150.0","defaultImageWidthInInches":"8.5","defaultImageHeightInInches":"11"}}}

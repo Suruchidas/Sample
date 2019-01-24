@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RegressionTest executeParallel="true" parallel="tests" suiteCategory="FedExPrintonline_critical" thread-count="2">
+    <ModeOfExecution value="all"/>
+    <Module enabled="Yes" name="FedEx" preserveOrder="true">
+        <TestCase applicationName="CHROME" applicationType="web" component="Checkout_singleSheetSize" enabled="Yes" manualTestCaseId="" methodName="Checkout_singleSheetSize" name="Checkout_singleSheetSize" priority="High" product="FedEX" productArea="FedEX" useCaseDevice="WINDOWS 7" useCaseType="Desktop"/>
+        <TestCase applicationName="CHROME" applicationType="web" component="Singlesheet_orientation" enabled="Yes" manualTestCaseId="" methodName="Singlesheet_orientation" name="Singlesheet_orientation" priority="High" product="FedEX" productArea="FedEX" useCaseDevice="WINDOWS 7" useCaseType="Desktop"/>
+        <TestCase applicationName="FIREFOX" applicationType="web" component="Singlesheet_orientation" enabled="Yes" manualTestCaseId="" methodName="Singlesheet_orientation" name="Singlesheet_orientation" priority="High" product="FedEX" productArea="FedEX" useCaseDevice="WINDOWS 7" useCaseType="Desktop"/>
+    </Module>
+</RegressionTest>

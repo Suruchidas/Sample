@@ -1,0 +1,2 @@
+RunId,ReleaseId,BuildNo,AppName,ExecutionStartDate,ExecutionStartTime,TestCaseCount,SuiteName,ExecutionEnvironment,ExecutionEndDate,ExecutionEndTime,ClientName,SuiteCategory
+589248,R2018.5,BN2018.5,FedEX_printApplication,2018-12-03,10:15:18,1,Test-printing-materials,Prod,2018-12-03,10:15:18,Mitchell,Bat

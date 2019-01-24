@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RegressionTest executeParallel="false" parallel="false" suiteCategory="Bat" thread-count="1">
+    <ModeOfExecution value="all"/>
+    <Module enabled="Yes" name="FedEx" preserveOrder="true">
+        <TestCase applicationName="CHROME" applicationType="web" component="marketing_materials" enabled="Yes" manualTestCaseId="" methodName="marketing_materials" name="multiplesheet_priceValidation_uploading2files" priority="High" product="FedEX" productArea="FedEX" useCaseDevice="WINDOWS 7" useCaseType="Desktop"/>
+    </Module>
+</RegressionTest>

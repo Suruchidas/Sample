@@ -1,0 +1,2 @@
+RunId,ReleaseId,BuildNo,AppName,ExecutionStartDate,ExecutionStartTime,TestCaseCount,SuiteName,ExecutionEnvironment,ExecutionEndDate,ExecutionEndTime,ClientName,SuiteCategory
+814004,R2018.5,BN2018.5,FedEX_printApplication,2018-11-30,14:37:25,20,Default suite,Prod,2018-11-30,14:37:25,Mitchell,Bat

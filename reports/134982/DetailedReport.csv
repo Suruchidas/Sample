@@ -1,0 +1,3 @@
+RunId,ProductArea,Product,Component,BusinessWorkflow,PageObject,Description,LogType,ExecutionDate,ExecutionTime,Remarks,AdditionalDetails,FailureId,ModuleName,ApplicationName,FailureType,ReasonForFailure,AnalysisDetails,ManualTestCaseId,UseCaseType,UseCaseDevice,ApplicationType,CustomReportType,PageLoadTimeout
+134982,FedEX,FedEX,marketing_materials,marketing_materials,com.fedex.PageObject.HomePage.launch_url,Successfuly launched the URL 'https://www.fedex.com/apps/printonline/'  ; launching the URL,PASS,2018/12/03,10:17:49,,,,,CHROME,,,,,Desktop,WINDOWS 7,web,,
+134982,FedEX,FedEX,marketing_materials,marketing_materials,com.infogain.uap.framework.uapControls.UapControls.afterMethod,Successfuly quit driver,PASS,2018/12/03,10:18:26,,,,,CHROME,,,,,Desktop,WINDOWS 7,web,,

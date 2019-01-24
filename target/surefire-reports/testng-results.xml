@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Fedex1" duration-ms="59630" started-at="2019-01-24T07:41:40Z" finished-at="2019-01-24T07:42:40Z">
+    <groups>
+    </groups>
+    <test name="Test 0 - CHROME" duration-ms="59630" started-at="2019-01-24T07:41:40Z" finished-at="2019-01-24T07:42:40Z">
+      <class name="com.fedEx.BusinessObject.FedEx">
+        <test-method status="PASS" signature="beforeSuite(org.testng.ITestContext)[pri:0, instance:com.fedEx.BusinessObject.FedEx@5adb8c4e]" name="beforeSuite" is-config="true" duration-ms="152" started-at="2019-01-24T13:11:40Z" finished-at="2019-01-24T13:11:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3da7e54e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.fedEx.BusinessObject.FedEx@5adb8c4e]" name="beforeMethod" is-config="true" duration-ms="5043" started-at="2019-01-24T13:11:40Z" finished-at="2019-01-24T13:11:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[WINDOWS 7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[web]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.fedEx.BusinessObject.FedEx@5adb8c4e]" name="beforeMethod1" is-config="true" duration-ms="6" started-at="2019-01-24T13:11:45Z" finished-at="2019-01-24T13:11:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[WINDOWS 7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[web]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[FedEX]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[FedEX]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[registration_fedex]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[public void com.fedEx.BusinessObject.FedEx.registration_fedex()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method status="PASS" signature="registration_fedex()[pri:0, instance:com.fedEx.BusinessObject.FedEx@5adb8c4e]" name="registration_fedex" duration-ms="53059" started-at="2019-01-24T13:11:45Z" finished-at="2019-01-24T13:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration_fedex -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.fedEx.BusinessObject.FedEx@5adb8c4e]" name="afterMethod" is-config="true" duration-ms="1514" started-at="2019-01-24T13:12:38Z" finished-at="2019-01-24T13:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="reporter()[pri:0, instance:com.fedEx.BusinessObject.FedEx@5adb8c4e]" name="reporter" is-config="true" duration-ms="5105" started-at="2019-01-24T13:12:40Z" finished-at="2019-01-24T13:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporter -->
+      </class> <!-- com.fedEx.BusinessObject.FedEx -->
+    </test> <!-- Test 0 - CHROME -->
+  </suite> <!-- Fedex1 -->
+</testng-results>

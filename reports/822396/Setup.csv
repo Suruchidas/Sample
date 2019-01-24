@@ -1,0 +1,2 @@
+RunId,ReleaseId,BuildNo,AppName,ExecutionStartDate,ExecutionStartTime,TestCaseCount,SuiteName,ExecutionEnvironment,ExecutionEndDate,ExecutionEndTime,ClientName,SuiteCategory
+822396,R2018.5,BN2018.5,FedExPrintOnline,2018-11-02,13:42:59,1,FedExPrintonline_scenario,product_Environment,2018-11-02,13:42:59,Mitchell,FedExPrintonline_critical

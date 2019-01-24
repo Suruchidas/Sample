@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<suite name="Fedex1" parallel="false" suiteCategory="Bat" thread-count="1">
+    <test enabled="true" name="Test 0 - CHROME" preserve-order="true">
+        <classes>
+            <class name="com.fedEx.BusinessObject.FedEx">
+                <methods>
+                    <include name="registration_fedex"/>
+                </methods>
+            </class>
+        </classes>
+        <parameter name="productArea" value="FedEX"/>
+        <parameter name="product" value="FedEX"/>
+        <parameter name="component" value="registration_fedex"/>
+        <parameter name="manualTestCaseId" value=""/>
+        <parameter name="useCaseType" value="Desktop"/>
+        <parameter name="useCaseDevice" value="WINDOWS 7"/>
+        <parameter name="applicationType" value="web"/>
+        <parameter name="applicationName" value="CHROME"/>
+    </test>
+</suite>

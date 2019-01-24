@@ -1,0 +1,2 @@
+"RunId","ReleaseId","BuildNo","AppName","ExecutionStartDate","ExecutionStartTime","TestCaseCount","SuiteName","ExecutionEnvironment","ExecutionEndDate","ExecutionEndTime","ClientName","SuiteCategory"
+"752387","R2018.5","BN2018.5","FedEX_printApplication","2018-11-28","12:21:50","1","Test1","Prod","2018-11-28","12:28:28","Mitchell","Bat"

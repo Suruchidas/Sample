@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.fedEx.BusinessObject.FedEx">
+        <methods>
+          <include name="multisheet_multiplefeature"/>
+          <include name="beforeMethod1"/>
+          <include name="checkout_multiplesheet"/>
+          <include name="singlesheet_multifeature"/>
+          <include name="checkout_multiplsheet_multifeature_multiplefile"/>
+          <include name="multisheet_multiplefeature_checkout"/>
+          <include name="beforeMethod"/>
+          <include name="Checkout_singlesheet"/>
+          <include name="Singlesheet_multiplefeature_checkout"/>
+          <include name="Singlesheet_mutiplefeatue_papercolor"/>
+          <include name="checkout_specialityFeature"/>
+          <include name="registration_fedex"/>
+          <include name="multiplesheet_priceValidation_uploading2files"/>
+          <include name="addSpecial_instruction_insinglesheet"/>
+          <include name="specialityFeature_size"/>
+          <include name="multisheet_mutiplefeatue_papercolor"/>
+          <include name="Comparison_Image"/>
+          <include name="Singlesheet_orientation"/>
+          <include name="marketing_materials"/>
+          <include name="Checkout_singleSheetSize"/>
+          <include name="reporter"/>
+          <include name="multiplesheet_priceValidation"/>
+          <include name="afterMethod"/>
+          <include name="checkout_multiplesheetAtOneTime"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.fedEx.BusinessObject.FedEx -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

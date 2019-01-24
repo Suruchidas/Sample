@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RegressionTest executeParallel="false" parallel="tests">
+	<ModeOfExecution value="all" />
+	<Module enabled="Yes" name="FedEx" preserveOrder="true">
+
+
+			<TestCase applicationName="chrome" applicationType="web"
+			enabled="Yes" manualTestCaseId="" methodName="registration_fedex"
+			name="registration_fedex" priority="High" useCaseDevice="windows 7"
+			useCaseType="Desktop" productArea="FedEX" product="FedEX" component="registration_fedex" />
+			
+			
+			<TestCase applicationName="chrome" applicationType="web"
+			enabled="Yes" manualTestCaseId="" methodName="Checkout_singlesheet"
+			name="Checkout_singlesheet" priority="High" useCaseDevice="windows 7"
+			useCaseType="Desktop" productArea="FedEX" product="FedEX" component="Checkout_singlesheet" />
+			
+			
+			
+			
+	
+			
+			<TestCase applicationName="chrome" applicationType="web"
+			enabled="Yes" manualTestCaseId="" methodName="checkout_multiplesheet"
+			name="checkout_multiplesheet" priority="High" useCaseDevice="windows 7"
+			useCaseType="Desktop" productArea="FedEX" product="FedEX" component="checkout_multiplesheet" />
+			
+			<TestCase applicationName="chrome" applicationType="web"
+			enabled="Yes" manualTestCaseId="" methodName="checkout_multiplesheetAtOneTime"
+			name="checkout_multiplesheetAtOneTime" priority="High" useCaseDevice="windows 7"
+			useCaseType="Desktop" productArea="FedEX" product="FedEX" component="checkout_multiplesheetAtOneTime" />
+			
+			
+			
+			
+			
+		<TestCase applicationName="chrome" applicationType="web"
+			enabled="Yes" manualTestCaseId="" methodName="multiplesheet_priceValidation"
+			name="multiplesheet_priceValidation" priority="High" useCaseDevice="windows 7"
+			useCaseType="Desktop" productArea="FedEX" product="FedEX" component="multiplesheet_priceValidation" />
+			
+			<TestCase applicationName="chrome" applicationType="web"
+			enabled="Yes" manualTestCaseId="" methodName="multiplesheet_priceValidation_uploading2files"
+			name="multiplesheet_priceValidation_uploading2files" priority="High" useCaseDevice="windows 7"
+			useCaseType="Desktop" productArea="FedEX" product="FedEX" component="multiplesheet_priceValidation_uploading2files" />
+			<TestCase applicationName="chrome" applicationType="web"
+			enabled="Yes" manualTestCaseId="" methodName="marketing_materials"
+			name="marketing_materials" priority="High" useCaseDevice="windows 7"
+			useCaseType="Desktop" productArea="FedEX" product="FedEX" component="marketing_materials" />
+
+		
+	</Module>
+
+</RegressionTest>

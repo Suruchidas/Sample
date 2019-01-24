@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RegressionTest executeParallel="false" parallel="false" suiteCategory="Bat" thread-count="1">
+    <ModeOfExecution value="all"/>
+    <Module enabled="Yes" name="FedEx" preserveOrder="true">
+        <TestCase applicationName="CHROME" applicationType="web" component="registration_fedex" enabled="Yes" manualTestCaseId="" methodName="registration_fedex" name="registration_fedex" priority="High" product="FedEX" productArea="FedEX" useCaseDevice="WINDOWS 7" useCaseType="Desktop"/>
+        <TestCase applicationName="CHROME" applicationType="web" component="Checkout_singlesheet" enabled="Yes" manualTestCaseId="" methodName="Checkout_singlesheet" name="Checkout_singlesheet" priority="High" product="FedEX" productArea="FedEX" useCaseDevice="WINDOWS 7" useCaseType="Desktop"/>
+        <TestCase applicationName="CHROME" applicationType="web" component="checkout_multiplesheet" enabled="Yes" manualTestCaseId="" methodName="checkout_multiplesheet" name="checkout_multiplesheet" priority="High" product="FedEX" productArea="FedEX" useCaseDevice="WINDOWS 7" useCaseType="Desktop"/>
+    </Module>
+</RegressionTest>

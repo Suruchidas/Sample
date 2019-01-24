@@ -1,0 +1,10 @@
+------WebKitFormBoundaryfnaEywXAB5AuOvBG
+Content-Disposition: form-data; name="fileName"; filename="FEDEX_TESTING.docx"
+Content-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+
+------WebKitFormBoundaryfnaEywXAB5AuOvBG
+Content-Disposition: form-data; name="productId"
+
+1447174746733
+------WebKitFormBoundaryfnaEywXAB5AuOvBG--

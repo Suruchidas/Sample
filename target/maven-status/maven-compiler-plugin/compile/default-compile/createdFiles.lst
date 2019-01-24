@@ -1,0 +1,16 @@
+com\fedex\PageObject\HomePage.class
+com\fedex\PageObject\Login_page.class
+com\fedex\PageObject\Browser.class
+com\fedex\PageObject\SelectProjectType_Page.class
+com\fedex\PageObject\Payment.class
+com\fedex\PageObject\DocumentInProgress_page.class
+com\fedex\PageObject\PriceValidation_fromUI.class
+com\fedex\PageObject\AddToCart.class
+com\fedex\PageObject\Registration.class
+com\fedex\PageObject\ImageComparison.class
+com\fedex\PageObject\PickUpDelivery.class
+com\fedex\PageObject\ProceedAsGuest_page.class
+com\fedex\PageObject\Checkout_page.class
+com\fedex\PageObject\PriceValidation_RestAssured.class
+com\fedex\PageObject\ContactInformation.class
+com\fedex\PageObject\UploadFile.class

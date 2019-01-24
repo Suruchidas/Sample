@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RegressionTest executeParallel="false" parallel="false" suiteCategory="Bat" thread-count="1">
+    <ModeOfExecution value="all"/>
+    <Module enabled="Yes" name="FedEx" preserveOrder="true">
+        <TestCase applicationName="CHROME" applicationType="web" component="checkout_multiplesheetAtOneTime" enabled="Yes" manualTestCaseId="" methodName="checkout_multiplesheetAtOneTime" name="checkout_multiplesheetAtOneTime" priority="High" product="FedEX" productArea="FedEX" useCaseDevice="WINDOWS 7" useCaseType="Desktop"/>
+    </Module>
+</RegressionTest>
